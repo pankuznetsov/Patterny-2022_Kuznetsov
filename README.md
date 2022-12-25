@@ -1,2 +1,2 @@
-# Patterny-2022_Kuznetsov
+# Patterny-2022_Kuznetsov-382008-2
 Лабараторные работы по паттернам. Вариант 3.
